@@ -44,3 +44,7 @@ nav p {
   }
 
 }
+
+ul {
+  list-style: none;
+}
