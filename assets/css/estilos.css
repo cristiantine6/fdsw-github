@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+nav p { 
+  text-align: center;
+  font-weight: 700;
+
+
+}
 /* Hero Section */
 
 #Hero-Section {
@@ -24,6 +30,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
+
   color: #373a3c;
 }
 
